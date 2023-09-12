@@ -1,0 +1,26 @@
+*{margin:0;padding:0;}
+body{
+	background-color:#EEE8AE;
+}
+#video_wrapper{
+	width:960px;
+	margin:10px auto;
+	background-color:#ffffff;
+}
+#video_wrapper video{
+	width:600px;
+	margin:15px 179px;
+	border:5px solid #C2AA7C;
+}
+#video_wrapper h2{
+	font-family:arial;
+	color:#FF0C00;
+	text-decoration:underline;
+	font-weight:bold;
+	margin:9px 329px;
+	padding-top:10px;
+	text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #ff00de, 0 0 70px #ff00de, 0 0 80px #ff00de, 0 0 100px #ff00de, 0 0 150px #ff00de;
+}
+#video_wrapper h2:hover{
+	color:#6B710E;
+}
