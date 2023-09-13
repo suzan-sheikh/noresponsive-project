@@ -1,5 +1,6 @@
 /* initial selector */
 *{ margin:0; padding:0;}
+/* body area */
 body{
 	background-color:#EEE8AE;
 	margin:15px auto;
@@ -24,6 +25,7 @@ body{
 	border-bottom:5px solid #6B710E;
 	border-top:5px solid #6B710E;
 }
+/* header area */
 #header{
 	background-color:#FAB72A;
 	padding:16px;	
